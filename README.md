@@ -1,9 +1,15 @@
-### Hello, I'm Selen Gora 👋
+```javascript
+console.log('Hello, I'm Selen Gora 👋');
+```
 
 I'm frontend developer who worked at Tourism Industry for 8 years.
+
 I build and implemented large scaled web applications.
+
 Focused on OOP JavaScript, Design patterns and Modern Javascript Frameworks. 
+
 Enthusiast about modern programming approaches and their life cycles.
+
 I'm also ✨ Atomic Design ✨ lover.
 
 <!--
