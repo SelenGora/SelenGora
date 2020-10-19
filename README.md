@@ -1,5 +1,5 @@
 ```javascript
-console.log('Hello, I'm Selen Gora 👋');
+console.log('Hello, I'm Selen 👋');
 ```
 
 I'm frontend developer who worked at Tourism Industry for 8 years.
